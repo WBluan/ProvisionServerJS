@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autoprovisioning>
+  <tab_voip_account>
+    <account value="0">
+      <PhoneNumber>2000</PhoneNumber>
+      <CallerIDName>IDname</CallerIDName>
+      <AuthUserName>auth</AuthUserName>
+      <AuthPassword>4</AuthPassword>
+      <ServerAddress>5</ServerAddress>
+      <ServerPort>6</ServerPort>
+      <SendRegister>7</SendRegister>
+      <RegisterTimer>8</RegisterTimer>
+      <Transport>tcp</Transport>
+      <EnableOutboundProxy>10</EnableOutboundProxy>
+      <OutboundProxyAddr>11</OutboundProxyAddr>
+      <OutboundProxyPort>12</OutboundProxyPort>
+    </account>
+  </tab_voip_account>
+</autoprovisioning>
